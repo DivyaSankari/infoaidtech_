@@ -1,6 +1,7 @@
 # infoaidtech
 🌐IRIS FLOWER CLASSIFICATION 
-Key Steps:
+
+#Key Steps:
 ✔️Loaded and pre-processed the Iris dataset using Scikit-learn.
 🔍 Explored data with visualizations (scatterplots and histograms).
 🤖 Trained a K-Nearest Neighbors (KNN) model for species classification.
@@ -11,7 +12,8 @@ Key Steps:
 
 
 💳CREDIT CARD  FRAUD DETECTIION 
-Key steps:
+
+#Key steps:
 ✔️Loaded the Credit Card Fraud Detection dataset using Pandas.
 🔍Pre-processed the data by scaling features and handling missing values and outliers.
 ✂ Split the dataset into training and testing sets.
